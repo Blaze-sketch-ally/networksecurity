@@ -1,4 +1,0 @@
-[2025-08-08 14:52:47,964]20root-INFO-NetworkDataExtract object initialized
-[2025-08-08 14:52:47,964]27root-INFO-Reading CSV file from path: Network_Data/phisingData.csv
-[2025-08-08 14:52:48,431]31root-INFO-Successfully converted 11055 records from CSV to JSON
-[2025-08-08 14:52:48,431]39root-INFO-Connecting to MongoDB...

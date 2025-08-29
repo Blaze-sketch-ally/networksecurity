@@ -72,5 +72,5 @@ class DataIngestion:
                       test_file_path=self.data_ingestion_config.testing_file_path                                 )
             return dataingestionartifact
         except Exception as e:
-            raise NetworkSecurityException
+            raise NetworkSecurityException(e,sys)
         

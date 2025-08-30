@@ -6,4 +6,8 @@ pymongo[srv]==4.14.1
 scikit-learn
 dill
 pyaml
+mlflow
+pyaml
+dagshub
+fastapi
 ##-e.
